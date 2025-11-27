@@ -1,0 +1,11 @@
+Fitter Status : Successful - Mon Nov 10 00:11:18 2025
+Quartus Prime Version : 25.1std.0 Build 1129 10/21/2025 SC Lite Edition
+Revision Name : cpld
+Top-level Entity Name : top
+Family : MAX V
+Device : 5M80ZT100C5
+Timing Models : Final
+Total logic elements : 2 / 80 ( 3 % )
+Total pins : 76 / 79 ( 96 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

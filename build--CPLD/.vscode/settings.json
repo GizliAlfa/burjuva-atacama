@@ -1,0 +1,19 @@
+{
+  "files.associations": {
+    "*.v": "verilog",
+    "*.vh": "verilog",
+    "*.sv": "systemverilog",
+    "*.qsf": "tcl",
+    "*.sdc": "tcl"
+  },
+  "editor.insertSpaces": false,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "[verilog]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": false
+  },
+  "terminal.integrated.env.windows": {
+    "PATH": "${env:PATH};C:\\intelFPGA_lite\\23.1\\quartus\\bin"
+  }
+}
